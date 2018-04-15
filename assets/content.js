@@ -1,19 +1,19 @@
 var content = (function () {/*
 # @yo-iida
 
-Software Engineer
+Software Engineer, Product Owner, Manager
 
 _Alcohol Driven Development_
 
 # Experience
 
-## Software Engineer
+## Software Engineer, Product Owner, Manager
 
 ### CrowdWorks
 
 New Business Feature Development,
 
-Team Building, Scrum Master, ...
+Team Building, Scrum Master, Data Analytics, ...
 
 2015/5 - now
 
@@ -31,11 +31,11 @@ Operation and maintenance, ...
 
 Ruby on Rails, Agile, Scrum, Project Management,
 
-JavaScript(ES2015), React, Redux, Webpack,
+JavaScript, React, Redux, Webpack,
 
 Rspec, Capybara, CI, PostgreSQL, Redis, MySQL,
 
-PHP, Git, Linux, AWS, Heroku, Slack
+PHP, Git, Linux, AWS, Heroku, Slack, ...
 
 # Writing
 
